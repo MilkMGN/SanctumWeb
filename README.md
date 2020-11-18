@@ -37,8 +37,6 @@
 
   ## Questions?
 
-  ![Developer Profile Picture](https://avatars3.githubusercontent.com/u/42798255?v=4)
-
   For any questions, please contact me with the information below:
 
   GitHub: [@MilkMGN](https://api.github.com/users/MilkMGN)
