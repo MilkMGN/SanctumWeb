@@ -38,7 +38,7 @@
   For any questions, please contact me with the information below:
 
   GitHub: [@MilkMGN](https://api.github.com/users/MilkMGN)
-  Email: owner@sanctum.gq
+  Email: root@mail.sanctum.gq
   Discord: Milk#4930
   Sanctum Discord: http://discord.sanctum.gq
 
