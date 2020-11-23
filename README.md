@@ -1,6 +1,6 @@
 # Sanctum Web
 
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/MilkMGN/SanctumWeb?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/MilkMGN/SanctumWeb?style=flat&logo=appveyor) <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/au/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/au/88x31.png"/>
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SanctumServers/SanctumWeb?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SanctumServers/SanctumWeb?style=flat&logo=appveyor) <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/au/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/au/88x31.png"/>
 
 
   ## Description
@@ -37,8 +37,8 @@
 
   For any questions, please contact me with the information below:
 
-  GitHub: [@MilkMGN](https://api.github.com/users/MilkMGN)
-  Email: root@mail.sanctum.gq
+  GitHub: [@SanctumServers](https://api.github.com/users/SanctumServers)
+  Email: owner@sanctum.gq
   Discord: Milk#4930
   Sanctum Discord: http://discord.sanctum.gq
 
