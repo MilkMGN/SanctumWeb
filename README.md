@@ -7,7 +7,13 @@
 
   *The what, why, and how:*
 
-  Website for Sanctum, The community server host based out of Brisbane, Australia
+  Website for Sanctum, The community server host based out of Brisbane, Australia.
+
+  **Developers**
+  - @MilkMGN - Idea and main framework
+  - @TheExoEngineer - Info page and some image capture, when i didn't (still dont) have an RTX card
+  - @GhastMan01012 - All JavaScript work, and an attempt at stealing @TheExoEngineer 's job
+  - FluidBridge032 - Supposedly made some paragraphs, and complained about how Bootstrap works (make a gitthub account so i can @ you aaaaaa)
 
   ## Table of Contents
   * [Installation](#installation)
