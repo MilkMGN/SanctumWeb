@@ -145,3 +145,9 @@
 .btn-yahoo:active,.btn-yahoo.active,.open>.dropdown-toggle.btn-yahoo{background-image:none}
 .btn-yahoo.disabled:hover,.btn-yahoo[disabled]:hover,fieldset[disabled] .btn-yahoo:hover,.btn-yahoo.disabled:focus,.btn-yahoo[disabled]:focus,fieldset[disabled] .btn-yahoo:focus,.btn-yahoo.disabled.focus,.btn-yahoo[disabled].focus,fieldset[disabled] .btn-yahoo.focus{background-color:#720e9e;border-color:rgba(0,0,0,0.2)}
 .btn-yahoo .badge{color:#720e9e;background-color:#fff}
+.btn-discord{color:#fff;background-color:#444;border-color:rgba(0,0,0,0.2)}.btn-discord:focus,.btn-discord.focus{color:#fff;background-color:#2b2b2b;border-color:rgba(0,0,0,0.2)}
+.btn-discord:hover{color:#fff;background-color:#7289DA;border-color:rgba(0,0,0,0.2)}
+.btn-discord:active,.btn-discord.active,.open>.dropdown-toggle.btn-discord{color:#fff;background-color:#7289DA;border-color:rgba(0,0,0,0.2)}.btn-discord:active:hover,.btn-discord.active:hover,.open>.dropdown-toggle.btn-discord:hover,.btn-discord:active:focus,.btn-discord.active:focus,.open>.dropdown-toggle.btn-discord:focus,.btn-discord:active.focus,.btn-discord.active.focus,.open>.dropdown-toggle.btn-discord.focus{color:#fff;background-color:#191919;border-color:rgba(0,0,0,0.2)}
+.btn-discord:active,.btn-discord.active,.open>.dropdown-toggle.btn-discord{background-image:none}
+.btn-discord.disabled:hover,.btn-discord[disabled]:hover,fieldset[disabled] .btn-discord:hover,.btn-discord.disabled:focus,.btn-discord[disabled]:focus,fieldset[disabled] .btn-discord:focus,.btn-discord.disabled.focus,.btn-discord[disabled].focus,fieldset[disabled] .btn-discord.focus{background-color:#444;border-color:rgba(0,0,0,0.2)}
+.btn-discord .badge{color:#444;background-color:#fff}
