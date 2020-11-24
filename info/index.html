@@ -9,28 +9,62 @@
 
     <meta name="description" content="Coded with <3 by Sanctum (https://sanctum.gq/)">
     <meta name="author" content="Sanctum.gq">
-    <link href="\node_modules\bootswatch\dist\darkly\bootstrap.min.css" rel="stylesheet">
-    <link href="\src\social\bootstrap-social.css" rel="stylesheet">
+    <link href="/node_modules/bootswatch/dist/darkly/bootstrap.min.css" rel="stylesheet">
+    <link href="/src/social/bootstrap-social.css" rel="stylesheet">
 	<script src="https://kit.fontawesome.com/bb8d3919ba.js" crossorigin="anonymous"></script>
 	<script src="/index.js"></script>
     <style media="screen">
-    .jumbotron {
-      background-image: url("/src/img/MG.png");
-      background-size: cover;
-      }
-	</style>
+        body {
+          background-image: url("/src/img/MG.png");
+	        background-size: 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+          height: 100vh;
+        }
+        .jumbotron {
+          background-color: rgba(0, 0, 0, 0);
+        }
+    </style>
 	
   </head>
   <body>
-
+  
     <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
-			<div w3-include-html="/header.html"></div>
-		</div>
-	</div>
+            <div w3-include-html="/header.html"></div>
+    </div>
+    <!--<img src = "MG.png" width = "10%" height = "10%" align = "right">-->
+    </div>
+    			<div class="jumbotron">
+				<h2>
+					Sanctum
+				</h2>
+				<p>
+					Welcome to Sanctum, the server platform hosted by a community based in Brisbane, Australia.
+				</p>
+				<p>
+					<a class="btn btn-primary btn-large" href="#">Learn more</a>
+        </p>
+        <div class="jumbotron_right">
+			</div>
+    <div class="row">
+      
+        <div class="col-md-4">
+         <h2>
+             MC Vanilla
+         </h2>
+         <p>
+             We run a free Vanilla SMP. Always on latest.
+         </p>
+         <p>
+             <a class="btn btn-primary btn-large" href="/MC/Vanilla/">View details »</a>
+         </p>
+         </div>
+      </div>
+    </div>
 </div>
-
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/scripts.js"></script>
