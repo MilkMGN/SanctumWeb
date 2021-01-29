@@ -1,3 +1,4 @@
+@ -1,53 +0,0 @@
 # Sanctum Web
 
   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SanctumServers/SanctumWeb?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SanctumServers/SanctumWeb?style=flat&logo=appveyor) <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/au/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/au/88x31.png"/>
@@ -11,9 +12,9 @@
 
   **Developers**
   - @MilkMGN - Idea and main framework
-  - @TheExoEngineer - Info page and some image capture, when i didn't (still dont) have an RTX card
-  - @GhastMan01012 - All JavaScript work, and an attempt at stealing @TheExoEngineer 's job
-  - FluidBridge032 - Supposedly made some paragraphs, and complained about how Bootstrap works (make a gitthub account so i can @ you aaaaaa)
+  - @TheExoEngineer - some image capture, when i didn't (still dont) have an RTX card
+  - @GhastMan01012 - an attempt at stealing @TheExoEngineer 's job
+  - @FluidBridge032 - Supposedly made some paragraphs, and complained about how Bootstrap works (even though we dont have bootstrap (anymore))
 
   ## Table of Contents
   * [Installation](#installation)
