@@ -10,6 +10,8 @@
 
   Website for Sanctum, The community server host based out of Brisbane, Australia.
 
+  Currently made with Mobirise as i have a lack of interest to code.
+  
   **Developers**
   - @MilkMGN - Idea and main framework
   - @TheExoEngineer - some image capture, when i didn't (still dont) have an RTX card
